@@ -6,7 +6,7 @@
 - Bootstrap
 
 ---
-**Link:** [Click on LoopLab Social](https://11samo.github.io/social-proof-section/)
+**Link:** [Click on Social Proof Section](https://11samo.github.io/social-proof-section/)
 
 ---
 ![Screenshot of site](screen.jpg)
