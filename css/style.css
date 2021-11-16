@@ -1,0 +1,55 @@
+body {
+  font-family: "Spartan", sans-serif;
+  width: 100vw;
+  height: 100vh;
+
+  background: url(../images/bg-pattern-bottom-desktop.svg) bottom 0 right 0
+      no-repeat,
+    url(../images/bg-pattern-top-desktop.svg) top 0 left 0 no-repeat;
+}
+
+h1 {
+  font-weight: 700;
+  color: rgb(92, 30, 150);
+}
+
+.block-rating {
+  background-color: rgb(241, 228, 253);
+  border-radius: 15px;
+  max-width: 500px;
+}
+
+.block-rating p {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: rgb(70, 22, 114);
+}
+
+.block-rating img {
+  width: 25px;
+}
+
+.block-review {
+  background-color: rgb(91, 36, 143);
+  border-radius: 15px;
+}
+
+.name {
+  font-weight: 500;
+}
+
+.verified-buyer {
+  color: rgb(167, 91, 238);
+  font-weight: 500;
+  line-height: 2px;
+}
+
+@media (min-width: 751px) {
+  .last-block {
+    margin-left: 100px !important;
+  }
+  .ratings {
+    padding-top: 90px;
+    padding-left: 147px;
+  }
+}
